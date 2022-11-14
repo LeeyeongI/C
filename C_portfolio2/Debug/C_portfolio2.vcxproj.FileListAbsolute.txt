@@ -1,0 +1,2 @@
+C:\Users\yeong\source\repos\C_portfolio2\Debug\C_portfolio2.exe
+C:\Users\yeong\source\repos\C_portfolio2\Debug\C_portfolio2.pdb
